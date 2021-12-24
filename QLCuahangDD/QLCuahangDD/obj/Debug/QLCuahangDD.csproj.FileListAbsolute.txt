@@ -1,0 +1,16 @@
+C:\Users\thile\source\repos\QLCuahangDD\QLCuahangDD\obj\Debug\QLCuahangDD.csprojAssemblyReference.cache
+C:\Users\thile\source\repos\QLCuahangDD\QLCuahangDD\obj\Debug\QLCuahangDD.Form1.resources
+C:\Users\thile\source\repos\QLCuahangDD\QLCuahangDD\obj\Debug\QLCuahangDD.Properties.Resources.resources
+C:\Users\thile\source\repos\QLCuahangDD\QLCuahangDD\obj\Debug\QLCuahangDD.csproj.GenerateResource.cache
+C:\Users\thile\source\repos\QLCuahangDD\QLCuahangDD\obj\Debug\QLCuahangDD.csproj.CoreCompileInputs.cache
+C:\Users\thile\source\repos\QLCuahangDD\QLCuahangDD\bin\Debug\QLCuahangDD.exe.config
+C:\Users\thile\source\repos\QLCuahangDD\QLCuahangDD\bin\Debug\QLCuahangDD.exe
+C:\Users\thile\source\repos\QLCuahangDD\QLCuahangDD\bin\Debug\QLCuahangDD.pdb
+C:\Users\thile\source\repos\QLCuahangDD\QLCuahangDD\bin\Debug\EntityFramework.dll
+C:\Users\thile\source\repos\QLCuahangDD\QLCuahangDD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thile\source\repos\QLCuahangDD\QLCuahangDD\bin\Debug\EntityFramework.xml
+C:\Users\thile\source\repos\QLCuahangDD\QLCuahangDD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thile\source\repos\QLCuahangDD\QLCuahangDD\obj\Debug\QLCuahangDD.csproj.CopyComplete
+C:\Users\thile\source\repos\QLCuahangDD\QLCuahangDD\obj\Debug\QLCuahangDD.exe
+C:\Users\thile\source\repos\QLCuahangDD\QLCuahangDD\obj\Debug\QLCuahangDD.pdb
+C:\Users\thile\source\repos\QLCuahangDD\QLCuahangDD\obj\Debug\QLCuahangDD.frmThemCH.resources
